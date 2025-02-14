@@ -1,0 +1,71 @@
+{
+"name": "Джинсы",
+"filters": [
+    {
+      "name": "Запрос",
+      "key": "query",
+      "value": "джинсы",
+      "mapped_value": "джинсы"
+    },
+    {
+      "name": "Категория",
+      "key": "xsubject",
+      "value": "Джинсы",
+      "mapped_value": 180
+    },
+    {
+      "name": "Минимальная цена",
+      "key": "minPriceU",
+      "value": 990,
+      "mapped_value": 99000
+    },
+    {
+      "name": "Максимальная цена",
+      "key": "maxPriceU",
+      "value": 10000,
+      "mapped_value": 1000000
+    },
+    {
+      "name": "Цвет",
+      "key": "fcolor",
+      "value": "Синий",
+      "mapped_value": 255
+    },
+    {
+      "name": "Пол",
+      "key": "fkind",
+      "value": "Женский",
+      "mapped_value": 2
+    },
+    {
+      "name": "Состав",
+      "key": "f14177450",
+      "value": "хлопок",
+      "mapped_value": 15000517
+    },
+    {
+      "name": "Модель джинсов",
+      "key": "f85592",
+      "value": "широкие",
+      "mapped_value": 91725
+    },
+    {
+      "name": "Вид застежки",
+      "key": "f4",
+      "value": "молния",
+      "mapped_value": 9844
+    },
+    {
+      "name": "Тип посадки",
+      "key": "f6153",
+      "value": "высокая",
+      "mapped_value": 14454
+    },
+    {
+      "name": "Страна производства",
+      "key": "f14177451",
+      "value": "Россия",
+      "mapped_value": 15000203
+    }
+  ]
+}
