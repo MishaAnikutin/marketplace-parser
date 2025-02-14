@@ -2,7 +2,7 @@ import requests
 from retry import retry
 from fake_useragent import UserAgent
 
-from src import Query
+from entities import Query
 
 
 class DataSource:

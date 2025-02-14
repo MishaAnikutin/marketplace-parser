@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from typing import Union, List
 
-from src.ProductFile import ProductFile
+from entities.ProductFile import ProductFile
 
 
 @dataclass

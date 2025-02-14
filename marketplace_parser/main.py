@@ -2,7 +2,7 @@ import os
 from celery import Celery
 from celery.schedules import crontab
 
-from src import Query, Product, DataSource, ProductFile, Data
+from entities import Query, Product, DataSource, ProductFile, Data
 
 app = Celery('parser', broker='redis://redis:6379/0')
 
